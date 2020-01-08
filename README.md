@@ -1,2 +1,2 @@
-# Tobi-Snake-Game
+# Tobi-s-Snake-Game
 A satisfying snake game for the kids 
